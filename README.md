@@ -2,9 +2,9 @@
 MSc Data Science for Business, University of Stirling (2024) (Disseration)
 
 # Arla Foods: Decarbonization and Mitigation Strategies - Portfolio Summary
-Objective
-Developed a data-driven strategy to help Arla Foods achieve its goal of 30% greenhouse gas (GHG) emissions reduction by 2030.
-Identified key performance indicators (KPIs) affecting carbon footprint in dairy farms.
+## Objective
+* Developed a data-driven strategy to help Arla Foods achieve its goal of 30% greenhouse gas (GHG) emissions reduction by 2030.
+* Identified key performance indicators (KPIs) affecting carbon footprint in dairy farms.
 Built a scenario-based analysis tool to provide tailored recommendations for individual farms.
 Data Processing & Cleaning
 Collected and analyzed Climate Check dataset from Arla Foods, containing farm-level emissions data.
