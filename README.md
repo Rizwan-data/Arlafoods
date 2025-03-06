@@ -1,7 +1,7 @@
-Arla Foods: Decarbonization and Mitigation Strategies
+# Arla Foods: Decarbonization and Mitigation Strategies
 MSc Data Science for Business, University of Stirling (2024) (Disseration)
 
-Arla Foods: Decarbonization and Mitigation Strategies - Portfolio Summary
+# Arla Foods: Decarbonization and Mitigation Strategies - Portfolio Summary
 Objective
 Developed a data-driven strategy to help Arla Foods achieve its goal of 30% greenhouse gas (GHG) emissions reduction by 2030.
 Identified key performance indicators (KPIs) affecting carbon footprint in dairy farms.
@@ -26,7 +26,7 @@ Key Findings & Business Insights
 ✅ Farms using renewable electricity and biogas had the lowest carbon footprint compared to those relying on traditional energy sources.
 ✅ Adopting targeted strategies could help Arla achieve its sustainability goals without increasing production costs.
 
-Data Visualization & Reporting
+### Data Visualization & Reporting
 Bar charts & scatter plots: Showed correlations between KPIs and carbon footprint.
 Scenario-based comparison charts: Demonstrated impact of KPI improvements on emissions reduction.
 Clustered bar charts: Compared average carbon footprint across different farm categories.
@@ -36,7 +36,7 @@ Recommendations & Business Strategy
 ✔ Implement a priority-based incentive system to reward farms making the most impactful changes.
 ✔ Tailor sustainability strategies based on farm-specific data to maximize effectiveness.
 
-Tools & Technologies Used
+### Tools & Technologies Used
 Python (Pandas, NumPy) – Data preprocessing and analysis.
 Scikit-Learn – Regression modeling and KPI impact analysis.
 Matplotlib & Seaborn – Data visualization and insight generation.
